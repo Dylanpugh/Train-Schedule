@@ -1,0 +1,19 @@
+#jumbotron{
+    background-color: #2F4F4F;
+    color: white;
+    text-align: center;
+}
+
+.card-header{
+    background-color: #2F4F4F;
+    color: white;
+}
+
+.btn{
+    background-color: #2F4F4F;
+    color: white;
+}
+
+.inputText{
+    color: #696969;
+}
